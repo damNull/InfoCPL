@@ -4,3 +4,4 @@ raw_data/
 work_dir/
 
 *.zip
+*.pyc
